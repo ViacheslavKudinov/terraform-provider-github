@@ -54,3 +54,12 @@
       - "^doc-"
 # - changed-files:
 #   - any-glob-to-any-file: 'website/**'
+
+"Status: Triage":
+  - changed-files:
+    - any-glob-to-any-file: '**'
+
+"Type: Bug":
+  - changed-files:
+    - any-glob-to-any-file: '**'
+
